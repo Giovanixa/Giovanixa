@@ -6,12 +6,10 @@
 
 📫 How to reach me:
 giovannaannahy@gmail.com
+
 https://www.linkedin.com/in/giovanna-annahy-espinal-zavalaga-94244b23a/
 
-<!---
-Giovanixa/Giovanixa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 public class Cola {
     Nodo colas[];
      private Nodo inicio, nuevo, p,q;
