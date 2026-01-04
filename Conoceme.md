@@ -23,4 +23,4 @@ Other Skills: Machine Learning, Advanced Excel
 
 🤝 Experience 
 SAP: Experience in maintenance and web development
-Automation: Creating tables that export data to Excel
+Automation - Python: Creating tables that export data to Excel with ETL.
